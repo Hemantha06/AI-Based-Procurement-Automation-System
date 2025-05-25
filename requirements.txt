@@ -1,0 +1,14 @@
+agno
+openai==1.12.0
+pydantic==2.6.3
+fastapi==0.110.0
+uvicorn==0.29.0
+pyodbc==5.1.0
+jsonschema==4.21.1
+requests==2.31.0
+python-dotenv==1.0.1
+datetime==5.4
+
+
+
+
