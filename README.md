@@ -50,22 +50,16 @@ python team.py
 
 ```
 .
-├── agents/
-│   ├── requirement_agent.py
-│   ├── item_agent.py
-│   ├── quotation_agent.py
-│   └── vendor_evaluation_agent.py
-├── tools/
-│   ├── get_items.py
-│   ├── get_requirement_details.py
-│   ├── get_quotations.py
-│   └── evaluate_vendors.py
-├── monitor/
-│   └── requirement_monitor.py
-├── main.py
-├── config.py
+├── README.md
 ├── requirements.txt
-└── README.md
+├── team.py
+└── tools
+    ├── config.py
+    ├── database.py
+    ├── evaluate_ai.py
+    ├── get_items.py
+    ├── get_quotations.py
+    └── get_requirement_details.py
 ```
 
 ---
